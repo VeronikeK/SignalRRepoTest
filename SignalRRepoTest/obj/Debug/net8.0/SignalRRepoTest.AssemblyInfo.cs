@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalRRepoTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fdd43581f6927f7285e0aa761c7db8da16b9688")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalRRepoTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalRRepoTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

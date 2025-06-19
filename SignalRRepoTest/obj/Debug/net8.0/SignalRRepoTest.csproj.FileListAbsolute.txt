@@ -27,3 +27,5 @@ C:\Users\VeronikeKitchen\source\repos\SignalRRepoTest\SignalRRepoTest\obj\Debug\
 C:\Users\VeronikeKitchen\source\repos\SignalRRepoTest\SignalRRepoTest\obj\Debug\net8.0\SignalRRepoTest.pdb
 C:\Users\VeronikeKitchen\source\repos\SignalRRepoTest\SignalRRepoTest\obj\Debug\net8.0\SignalRRepoTest.genruntimeconfig.cache
 C:\Users\VeronikeKitchen\source\repos\SignalRRepoTest\SignalRRepoTest\obj\Debug\net8.0\ref\SignalRRepoTest.dll
+C:\Users\VeronikeKitchen\source\repos\SignalRRepoTest\SignalRRepoTest\bin\Debug\net8.0\libman.json
+C:\Users\VeronikeKitchen\source\repos\SignalRRepoTest\SignalRRepoTest\obj\Debug\net8.0\SignalRRepoTest.sourcelink.json
