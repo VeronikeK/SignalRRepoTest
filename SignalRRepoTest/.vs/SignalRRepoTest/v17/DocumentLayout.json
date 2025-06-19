@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\VeronikeKitchen\\source\\repos\\SignalRRepoTest\\SignalRRepoTest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65AFA6AF-AAD6-4C2E-A8DB-6F59401E1665}|SignalRRepoTest.csproj|c:\\users\\veronikekitchen\\source\\repos\\signalrrepotest\\signalrrepotest\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AFA6AF-AAD6-4C2E-A8DB-6F59401E1665}|SignalRRepoTest.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AFA6AF-AAD6-4C2E-A8DB-6F59401E1665}|SignalRRepoTest.csproj|c:\\users\\veronikekitchen\\source\\repos\\signalrrepotest\\signalrrepotest\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{65AFA6AF-AAD6-4C2E-A8DB-6F59401E1665}|SignalRRepoTest.csproj|solutionrelative:wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AFA6AF-AAD6-4C2E-A8DB-6F59401E1665}|SignalRRepoTest.csproj|c:\\users\\veronikekitchen\\source\\repos\\signalrrepotest\\signalrrepotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AFA6AF-AAD6-4C2E-A8DB-6F59401E1665}|SignalRRepoTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AFA6AF-AAD6-4C2E-A8DB-6F59401E1665}|SignalRRepoTest.csproj|c:\\users\\veronikekitchen\\source\\repos\\signalrrepotest\\signalrrepotest\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AFA6AF-AAD6-4C2E-A8DB-6F59401E1665}|SignalRRepoTest.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\VeronikeKitchen\\source\\repos\\SignalRRepoTest\\SignalRRepoTest\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\VeronikeKitchen\\source\\repos\\SignalRRepoTest\\SignalRRepoTest\\wwwroot\\js\\chat.js*",
+              "RelativeToolTip": "wwwroot\\js\\chat.js*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-19T07:30:56.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VeronikeKitchen\\source\\repos\\SignalRRepoTest\\SignalRRepoTest\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VeronikeKitchen\\source\\repos\\SignalRRepoTest\\SignalRRepoTest\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T07:30:35.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VeronikeKitchen\\source\\repos\\SignalRRepoTest\\SignalRRepoTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VeronikeKitchen\\source\\repos\\SignalRRepoTest\\SignalRRepoTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T07:30:16.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\VeronikeKitchen\\source\\repos\\SignalRRepoTest\\SignalRRepoTest\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\VeronikeKitchen\\source\\repos\\SignalRRepoTest\\SignalRRepoTest\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T07:30:05.151Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"

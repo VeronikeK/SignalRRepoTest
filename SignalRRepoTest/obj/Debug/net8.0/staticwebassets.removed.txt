@@ -1,0 +1,2 @@
+C:\Users\VeronikeKitchen\source\repos\SignalRRepoTest\SignalRRepoTest\wwwroot\lib\microsoft\signalr\dist\browser\signalr.js
+C:\Users\VeronikeKitchen\source\repos\SignalRRepoTest\SignalRRepoTest\wwwroot\lib\microsoft\signalr\dist\browser\signalr.min.js
